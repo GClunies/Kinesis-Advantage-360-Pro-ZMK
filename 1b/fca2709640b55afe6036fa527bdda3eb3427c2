@@ -1,0 +1,19 @@
+config/adv360.keymap
+  s_4bf7b3688166b3::t_3cecd062b9e99f 54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1bfca2709640b55afe6036fa527bdda3eb3427c2",
+  "prompts": {},
+  "sessions": {
+    "s_4bf7b3688166b3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a027ed5d-cbef-4968-bb79-873e84185254",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Gregory Clunies <greg.clunies@gmail.com>"
+    }
+  }
+}
